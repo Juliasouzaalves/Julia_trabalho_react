@@ -1,0 +1,17 @@
+.Botoes {  
+    text-align: center; 
+    font-size: 20px;
+    margin-top: 20%;
+    margin-left: 42%;
+    position: fixed;
+    background-color: rgb(79, 206, 85);
+} 
+.Botoes span {
+ font-size: 25px;
+
+} 
+.Botoes button {
+font-size: 20px;
+background-color: rgb(219, 68, 233);
+} 
+    
